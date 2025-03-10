@@ -17,6 +17,7 @@ Desafios do projeto:
 
 Soluções do projeto:
 
+Com esse desafio de projeto do Github desenvolvi as seguintes hanilidades:
 
 
 
