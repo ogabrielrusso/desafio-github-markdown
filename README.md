@@ -19,7 +19,9 @@ Soluções do projeto:
 
 Com esse desafio de projeto do Github desenvolvi as seguintes hanilidades:
 
-Tente colocar em tópicos ou em formato de texto.
-
+- Criar uma conta no Github foi um desafio básico realizado com sucesso.
+- Criar um repositório foi bem simples e bem intuitivi.
+- Realizar as colaborações do projeto foi um desafio. Sendo a primeira a vez que realizo tal abordagem.
+- Realizar formatações com Markdown foi bem divertido.
 
 
