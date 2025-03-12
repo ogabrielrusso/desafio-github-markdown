@@ -37,4 +37,4 @@ Com esses desafios de projeto do [Github](https://upload.wikimedia.org/wikipedia
 
 __Conclusão:__
 
-*Com esse desafio consegui enfrentar meus medos de errar utilizando a ferramenta Git, errando e refazendo até reter o conhecimento e aprender de vez o desenvolvimento das habilidaes propostas. E claro, tive tempo para explorar bastante os recursos do Github e entender melhor como funciona o trablaho colaborativo usando ferramenta de versionamento de código com o Git e Github*
+*Com esse desafio consegui enfrentar meus medos de errar utilizando a ferramenta Git, errando e refazendo até reter o conhecimento e aprender de vez o desenvolvimento das habilidades propostas. E claro, tive tempo para explorar bastante os recursos do Github e entender melhor como funciona o trablaho colaborativo usando ferramenta de versionamento de código com o Git e Github*
