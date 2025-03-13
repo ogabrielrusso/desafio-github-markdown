@@ -30,7 +30,7 @@ Com esses desafios de projeto do [Github](https://upload.wikimedia.org/wikipedia
   - foi um desafio intermediário. Sendo a primeira vez que realizo tal abordagem, precisei testar mais de uma vez a colaboração com issues e pull requests.
 
 - Realizar formatações com Markdown
-  - foi bem divertido e de nível inicinante por ser fácil de memorizar os comandos e aplicar na prática
+  - foi bem divertido e de nível iniciante por ser fácil de memorizar os comandos e aplicar na prática
 
 - Desafio extra
   - foi um desafio mais avançado, pois, trabalhei com autenticação via Token e criação de branch. Clonar o projeto em máquina local e realizar os comandos "git pull" "git merge" "git push".
