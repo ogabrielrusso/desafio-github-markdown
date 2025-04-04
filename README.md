@@ -1,6 +1,8 @@
 # 🧑‍💻 desafio-github-markdown
 
-## DIO - Primeiro desafio de projeto - Github
+## DIO - Formação Git e Github
+
+##Primeiro desafio de projeto - Github
 
 
 ### Tudo que aprendi sobre Git e Github
