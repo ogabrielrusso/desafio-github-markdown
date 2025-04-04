@@ -14,7 +14,7 @@ __Desafios:__
 4. Realizar formatação com Markdown
 
 
-Com esses desafios de projeto do [Github](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/180px-GitHub_Invertocat_Logo.svg.png)
+Com esse desafio de projeto do [Github](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/180px-GitHub_Invertocat_Logo.svg.png)
  desenvolvi as seguintes habilidades:
 
  __Soluções:__
